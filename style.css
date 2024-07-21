@@ -112,6 +112,13 @@ footer{
     font-weight: 400;
     margin: 0px 5px;
 }
+.background img{
+    width: 2000px;
+    height: 80%;
+    padding: 20px 20px 5px 5px;
+    margin: 15px;
+    align-items: center;
+}
 
 @media (max-width:700px){
     .navbar{
